@@ -93,4 +93,3 @@ To make the README file look short and sweet, I have compiled the detailed expla
 1. Deep Learning Specialisation by Andrew Ng, Coursera
 2. CS229 and CS230 - Stanford Engineering on Stanfordonline Youtube Channel
 3. Stack overflow 
-3. 
