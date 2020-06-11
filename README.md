@@ -15,7 +15,7 @@ This repo contains the following files:
 1. conv_helper_functions.py - Contains all the helper functions for implementing Convolution Layers from scratch.
 2. Linear_helper_functions.py - Contains all the helper functions for implementing Linear Layers from scratch.
 3. Helper_functions.py - Contains all the helper functions for building a model.
-4. CIFAR_10_Train.py - Contains the training and plotting loss for the model.
+4. cifar_10_train.py - Contains the training and plotting loss for the model.
 
 The README is further divided into subsections to explain briefly different modules of Training
 
